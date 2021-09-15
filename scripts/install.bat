@@ -1,0 +1,1 @@
+.\git\bin\git.exe clone https://gitlab.com/clement-or/modpack ..
